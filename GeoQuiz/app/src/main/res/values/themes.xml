@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.GeoQuiz" parent="@style/Theme.Leanback" />
+</resources>
